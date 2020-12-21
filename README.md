@@ -5,6 +5,7 @@ I am Wu Yufei, an enthusiastic developer with a wide range of interests. Some of
 Many of my repositories hosts on ZJU QSC. You could visit [my profile there](https://git.zjuqsc.com/WuYufei/).
 
 ![Tespent's github stats](https://github-readme-stats.vercel.app/api?username=Tespent)
+[![Tespent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tespent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tespent/tespent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
